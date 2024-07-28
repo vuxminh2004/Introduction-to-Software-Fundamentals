@@ -3,4 +3,4 @@ length = int(input("Enter a length: "))
 width = int(input("Enter a width: "))
 height = int(input("Enter a height: "))
 pyramid = (length * width * height)/3
-print(f"Volume of pyramid is {math.ceil(pyramid)} cubic cm.")
+print(f"Volume of pyramid is {math.ceil(pyramid)} cubic cm.").
